@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Seth McArthur](https://github.com/so4neet) - General nerd, C Developer and Linux (arch btw) enthusiast. Loves music and cats!
